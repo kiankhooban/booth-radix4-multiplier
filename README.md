@@ -63,5 +63,3 @@ The testbench targets any design whose top module is `booth_multiplier(A, B, pro
 ## Related
 
 - [b4g3-multiplier](https://github.com/kiankhooban/b4g3-multiplier): the ARITH 2024 carry-based encoding, same back end, direct comparison target
-- [booth-encoder-radix2](https://github.com/kiankhooban/booth-encoder-radix2): my earlier radix-2 Booth encoder
-- [multiplier-4x4-partial-products](https://github.com/kiankhooban/multiplier-4x4-partial-products): shift-and-add baseline where this line of work started
